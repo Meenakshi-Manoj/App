@@ -31,5 +31,11 @@
           Go to the project directory<br>
            cd my-project
  <B><U><H2> Screenshot </H2></U></B>
-
-       
+        <OL>
+         <LI>Login[https://www.dropbox.com/s/lx0ax8fuuy8ispv/s1.jpg?dl=0]</LI>
+         <LI>Create Account[https://www.dropbox.com/s/of35qx4lkiau092/s2.jpg?dl=0]</LI>
+         <LI>Home[https://www.dropbox.com/s/lzypw2o09qebgy6/s3.jpg?dl=0]</LI>
+         <LI>Details[https://www.dropbox.com/s/ya9v9thkzslrtnf/s4.jpg?dl=0]</LI>
+         <LI>My Profile[https://www.dropbox.com/s/c5o281bohxuijne/s5.jpg?dl=0]</LI>
+         <LI>Wishlist[https://www.dropbox.com/s/bxz0pdd9piz1vvf/s6.jpg?dl=0]</LI>
+        </OL>
