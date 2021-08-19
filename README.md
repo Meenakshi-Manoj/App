@@ -6,8 +6,7 @@
       <LI> Easy login & registration. </LI>
       <LI> Personal Profiles.</LI>
       <LI>Push Notification</LI>
-      <LI> Save serach and wishlist.</LI>
-      <LI>Serach Functionality</LI>
+      <LI> Save serach </LI>
       <LI>Show images of the property.</LI>
       <LI> Detailed property information.</LI>
       </UL>  
