@@ -6,12 +6,12 @@
       <LI> Easy login & registration. </LI>
       <LI> Personal Profiles.</LI>
       <LI>Push Notification</LI>
-      <LI> Save serach </LI>
+      <LI> Save serach and wishlist </LI>
       <LI>Show images of the property.</LI>
       <LI> Detailed property information.</LI>
       </UL>  
   <B><U><H2> Demo + Video </H2></U></B>
-  
+  https://www.loom.com/share/2ddde2c818254174ab819a42e268fb63
   <B><U><H2> Team Members</H2></U></B>
   <OL>
         <LI><A Href = "https://github.com/karun-hub">Karun S </A> </LI>
@@ -20,16 +20,7 @@
   </OL>
    <B><U><H2> Tech Stack</H2></U></B>
      <B>Flutter<B>
-       <B><U><H2> Working of the Project </H2></U></B>
-  <OL>
-    <LI> </LI>
-    <LI> </LI>
-  </OL>
-        <B><U><H2> Run Locally </H2></U></B>
-       <B>Clone the project<B><br>
-        <A Href = "  git clone https://link-to-project"></A>
-          Go to the project directory<br>
-           cd my-project
+     
  <B><U><H2> Screenshot </H2></U></B>
         <OL>
          <LI>Login[https://www.dropbox.com/s/lx0ax8fuuy8ispv/s1.jpg?dl=0]</LI>
